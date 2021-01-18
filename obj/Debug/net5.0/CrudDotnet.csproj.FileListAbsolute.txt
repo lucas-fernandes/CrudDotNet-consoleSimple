@@ -1,0 +1,16 @@
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.exe
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.deps.json
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.runtimeconfig.json
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.runtimeconfig.dev.json
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.dll
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\ref\CrudDotnet.dll
+C:\Users\lucas\projects\dotnet\CrudDotnet\bin\Debug\net5.0\CrudDotnet.pdb
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.csprojAssemblyReference.cache
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.AssemblyInfoInputs.cache
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.AssemblyInfo.cs
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.csproj.CoreCompileInputs.cache
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.dll
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\ref\CrudDotnet.dll
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.pdb
+C:\Users\lucas\projects\dotnet\CrudDotnet\obj\Debug\net5.0\CrudDotnet.genruntimeconfig.cache
